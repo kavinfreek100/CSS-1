@@ -1,0 +1,31 @@
+.section1{
+    text-align:center;
+    background-color:lightcyan;
+
+}
+
+.section1 img{
+    height: 450px;
+    width: 750px;
+}
+
+.section1 h2{
+    font-size: xx-large;
+    color:darkblue;
+}
+
+.section1 p{
+    font-size: medium;
+    color:purple;
+
+}
+
+#salad{
+    font-size: 30px;
+    color: purple;
+}
+
+#purple{
+    color: purple;
+    text-align:center;
+}
